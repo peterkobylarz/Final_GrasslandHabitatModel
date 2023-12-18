@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/728926980.svg)](https://zenodo.org/doi/10.5281/zenodo.10398019)
+
 ### Code Description
 "grassland-habitat_model.ipynb" is a Jupyter Notebook that contains code to download habitat data for Sorghastrum nutans (indiangrass) and process the data into a habitat suitability model. The model uses the following habitat data:
 - Soils - silt percentage
