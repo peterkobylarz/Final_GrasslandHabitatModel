@@ -4,7 +4,7 @@
 - Aspect
 - Median precipitation
 
-This model can be adaptated to other species by identif
+This model can be adaptated to other species and geographic areas by identifying new habitat characteristics and National Grassland Units to analyze.
 
 ### Instructions
 1. Identify a species for analysis and identify habitat characteristics for analysis. This code is designed to analyze one soils trait, one topographic trait, and two climate change scenarios.
